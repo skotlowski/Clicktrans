@@ -15,10 +15,10 @@ Test Steps:
 1 - 227 Check phone codes.
 
 Test objective:
-All phone Codes are accepted by registration sheet when the rest of fields are correct.
+All phone Codes are accepted by registration form when the rest of fields are correct.
 
 Expected result:
-The registration sheet accepted registration.
+The registration form accepted registration.
 
 Implementation: Szymon Kotlowski
 Last edited by: Szymon Kotlowski
@@ -51,7 +51,6 @@ class TC2_Check_Phone_Codes:
         sleep(5)  # wait for website load properly
 
     def testcase(self):
-        result = None
         end_result = None
 
         # Test Steps region

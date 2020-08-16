@@ -15,11 +15,11 @@ Test Steps:
 1. Check all fields with correct data.
 
 Test objective:
-After fill all fields with correct data and push the registration button, the registration sheet
+After fill all fields with correct data and push the registration button, the registration form
 accepted registration.
 
 Expected result:
-The registration sheet accepted registration.
+The registration form accepted registration.
 
 Implementation: Szymon Kotlowski
 Last edited by: Szymon Kotlowski
@@ -50,7 +50,6 @@ class TC1_Check_All_Fields:
         sleep(5)  # wait for website load properly
 
     def testcase(self):
-        result = None
         end_result = None
         steps = len(positive_tests.company_name)
 

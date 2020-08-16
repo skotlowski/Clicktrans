@@ -9,14 +9,14 @@ Google Chrome
 
 Preconditions:
 1. Load Google Chrome properly
-2. Enter dev-1.clicktrans.pl/register-test/courier webside
+2. Enter dev-1.clicktrans.pl/register-test/courier website
 
 Test Steps:
 1. Test Step 1 : Check the password field with password same as company name (fail).
 
 Expected result:
 After fill all fields with correct data except the password field and push
-the registration button, the registration sheet is refused (negative test).
+the registration button, the registration form is refused (negative test).
 
 Implementation: Szymon Kotlowski
 Last edited by: Szymon Kotlowski
@@ -47,7 +47,6 @@ class TC4_Check_Password_Field_With_Company_Name:
         sleep(5)  # wait for website load properly
 
     def testcase(self):
-        result = None
         end_result = None
         times = len(negative_tests_password_companyname.password)
 

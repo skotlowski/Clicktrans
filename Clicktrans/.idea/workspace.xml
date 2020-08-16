@@ -22,7 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a52c4b3c-a4e4-4444-925b-ded0863ec845" name="Default Changelist" comment="" />
+    <list default="true" id="a52c4b3c-a4e4-4444-925b-ded0863ec845" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Libraries/values.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/TC1_Check_All_Fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC1_Check_All_Fields.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/TC2_Check_Phone_Codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC2_Check_Phone_Codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/TC3_Check_Password_Field_With_Wrong_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC3_Check_Password_Field_With_Wrong_Data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/TC4_Check_Password_Field_With_Company_Name.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC4_Check_Password_Field_With_Company_Name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpg/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/jpg/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start_point.py" beforeDir="false" afterPath="$PROJECT_DIR$/start_point.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +64,7 @@
       <recent name="C:\Users\Szymon\PycharmProjects\ClickTrans" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.start_point">
+  <component name="RunManager" selected="Python.start_point (1)">
     <configuration name="TC2_Check_Phone_Codes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ClickTrans" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,6 +107,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="start_point (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ClickTrans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start_point.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="start_point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ClickTrans" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,6 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.start_point (1)" />
         <item itemvalue="Python.start_point" />
         <item itemvalue="Python.TC2_Check_Phone_Codes" />
       </list>
@@ -153,33 +185,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597606192515" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1597606192435">
+    <state width="1899" height="475" key="GridCell.Tab.0.bottom" timestamp="1597610599598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597606192435" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1597606192435">
+    <state width="1899" height="475" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597610599598" />
+    <state width="1899" height="475" key="GridCell.Tab.0.center" timestamp="1597610599597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597606192435" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1597606192435">
+    <state width="1899" height="475" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597610599597" />
+    <state width="1899" height="475" key="GridCell.Tab.0.left" timestamp="1597610599597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597606192435" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1597606192435">
+    <state width="1899" height="475" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597610599597" />
+    <state width="1899" height="475" key="GridCell.Tab.0.right" timestamp="1597610599597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597606192435" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1597608328817">
+    <state width="1899" height="475" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597610599597" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1597610893065">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597608328817" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597610893065" />
     <state x="522" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597581259043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="522" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1597581259043" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597444813721">
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1597610145013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597444813721" />
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597610145013" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597610092996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597610092996" />
   </component>
 </project>

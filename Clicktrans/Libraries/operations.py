@@ -23,10 +23,10 @@ def check_step_fail(result, test_type, index):
 
 def error_source(test_type, index):
     return "Error occurred on following values: " \
-           "Company name: {} " \
-           "E-mail: {} " \
-           "Name and Surname: {} " \
-           "Phone number: {} " \
+           "Company name: {} | " \
+           "E-mail: {} | " \
+           "Name and Surname: {} | " \
+           "Phone number: {} | " \
            "Password: {} ".format(test_type.company_name[index],
                                   test_type.e_mail[index],
                                   test_type.name_surname[index],

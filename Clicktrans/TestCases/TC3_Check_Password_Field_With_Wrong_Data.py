@@ -9,7 +9,7 @@ Google Chrome
 
 Preconditions:
 1. Load Google Chrome properly
-2. Enter dev-1.clicktrans.pl/register-test/courier webside
+2. Enter dev-1.clicktrans.pl/register-test/courier website
 
 Test Steps:
 1. Check password field with one character repeated eight times (fail).
@@ -22,11 +22,11 @@ Test Steps:
 Test objective:
 
 After fill all fields with correct data except the password field and push
-the registration button, the registration sheet rejected registration (negative test).
+the registration button, the registration form rejected registration (negative test).
 
 
 Expected result:
-The registration sheet rejected registration (negative test).
+The registration form rejected registration (negative test).
 
 Implementation: Szymon Kotlowski
 Last edited by: Szymon Kotlowski
@@ -58,7 +58,6 @@ class TC3_Check_Password_Field_With_Wrong_Data:
         sleep(1)  # wait for website load properly
 
     def testcase(self):
-        result = None
         end_result = None
 
         # Test Steps region
