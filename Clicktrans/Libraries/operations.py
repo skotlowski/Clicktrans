@@ -22,7 +22,7 @@ def check_step_fail(result, test_type, index):
 
 
 def error_source(test_type, index):
-    return "Error occurred on following values: " \
+    return "Error occurred at following values: " \
            "Company name: {} | " \
            "E-mail: {} | " \
            "Name and Surname: {} | " \

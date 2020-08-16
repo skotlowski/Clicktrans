@@ -25,13 +25,6 @@
     <list default="true" id="a52c4b3c-a4e4-4444-925b-ded0863ec845" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Libraries/operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Libraries/values.py" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/TC1_Check_All_Fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC1_Check_All_Fields.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/TC2_Check_Phone_Codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC2_Check_Phone_Codes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/TC3_Check_Password_Field_With_Wrong_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC3_Check_Password_Field_With_Wrong_Data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/TC4_Check_Password_Field_With_Company_Name.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC4_Check_Password_Field_With_Company_Name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jpg/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/jpg/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start_point.py" beforeDir="false" afterPath="$PROJECT_DIR$/start_point.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
