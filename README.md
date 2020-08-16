@@ -16,12 +16,12 @@ An automatic tests of the registration form
 - The script is compatible with Google Chrome ver. 84.0.4147.125
 
 # Screenshots
-<img src="Clicktrans/jpg/1.png">
-<img src="Clicktrans/jpg/2.png">
-<img src="Clicktrans/jpg/3.png">
-<img src="Clicktrans/jpg/3_1.png">
-<img src="Clicktrans/jpg/4.png">
-<img src="Clicktrans/jpg/5.png">
+<img src="jpg/1.png">
+<img src="jpg/2.png">
+<img src="jpg/3.png">
+<img src="jpg/3_1.png">
+<img src="jpg/4.png">
+<img src="jpg/5.png">
 
 # Setup
 Click "Clone or download" unzip files, open project in PyCharm and set up interpreter with frameworks mentioned above
