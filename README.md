@@ -3,7 +3,7 @@ An automatic tests of the registration form
 
 # Technologies
 
-- Python
+- Python (3.8)
 
 # Frameworks
 
@@ -13,7 +13,7 @@ An automatic tests of the registration form
 
 # Requirements
 
-- The script is compatible with Google Chrome ver.84.0.4147.125
+- The script is compatible with Google Chrome ver. 84.0.4147.125
 
 # Screenshots
 <img src="Clicktrans/jpg/1.png">
