@@ -18,4 +18,14 @@ An automatic tests of the registration form
 # Screenshots
 <img src="Clicktrans/jpg/1.png">
 <img src="Clicktrans/jpg/2.png">
+<img src="Clicktrans/jpg/3.png">
+<img src="Clicktrans/jpg/3_1.png">
+<img src="Clicktrans/jpg/4.png">
+<img src="Clicktrans/jpg/5.png">
+
+# Setup
+Click "Clone or download" unzip files, open project in PyCharm and set up interpreter with frameworks mentioned above
+
+# Contact
+Created by Szymon Kotlowski szymonkotlowski20@gmail.com
 
