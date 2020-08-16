@@ -46,7 +46,7 @@ class TC2_Check_Phone_Codes:
         self.driver = webdriver.Chrome(driver_path)
         sleep(5)  # wait for chrome load properly
 
-        print("Precondition 2 : Enter dev-1.clicktrans.pl/register-test/courier webside")
+        print("Precondition 2 : Enter dev-1.clicktrans.pl/register-test/courier website")
         self.driver.get(adress)
         sleep(5)  # wait for website load properly
 

@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a52c4b3c-a4e4-4444-925b-ded0863ec845" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/TC3_Check_Password_Field_With_Wrong_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC3_Check_Password_Field_With_Wrong_Data.py" afterDir="false" />
-    </list>
+    <list default="true" id="a52c4b3c-a4e4-4444-925b-ded0863ec845" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,10 +169,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597606192435" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1597475989916">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1597608328817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597475989916" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597608328817" />
     <state x="522" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597581259043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
