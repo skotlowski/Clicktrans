@@ -1,5 +1,5 @@
 # Clicktrans-project
-An automatic tests of the registration form
+Automatic tests of the registration form
 
 # Technologies
 
