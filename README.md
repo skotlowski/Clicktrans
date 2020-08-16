@@ -12,4 +12,4 @@ An automatic tests of the registration form
 - colorama
 
 # Screenshots
-<img src="Clicktrans/jpg/1.png" width = "100">
+<img src="Clicktrans/jpg/1.png">
