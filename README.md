@@ -24,7 +24,7 @@ An automatic tests of the registration form
 <img src="jpg/5.png">
 
 # Setup
-Click "Clone or download" unzip files, open project in PyCharm and set up interpreter with frameworks mentioned above
+Click Code -> Download zip, unzip files, open project in PyCharm and set up interpreter with frameworks mentioned above
 
 # Contact
 Created by Szymon Kotlowski szymonkotlowski20@gmail.com
