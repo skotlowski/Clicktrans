@@ -41,6 +41,7 @@ class TC1_Check_All_Fields:
         self.tc = __class__.__name__
         current_test(self.tc)
 
+        # Preconditions region
         print("Precondition 1 : Load Google Chrome properly.")
         self.driver = webdriver.Chrome(driver_path)
         sleep(5)  # wait for chrome load properly
@@ -53,6 +54,7 @@ class TC1_Check_All_Fields:
         end_result = None
         steps = len(positive_tests.company_name)
 
+        # Test Steps region
         for index in range(steps):
             print("Test Step {} : Check fields with correct data".format(index+1))
             fill_fields(self, selectors, positive_tests, index)
