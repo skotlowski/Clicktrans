@@ -4,25 +4,19 @@ Szymon Kotlowski 2020
 Test Case ID - 3
 
 Test environment:
- Windows 10 HOME
-
- Google Chrome
+Windows 10 HOME
+Google Chrome
 
 Preconditions:
- 1. Load Google Chrome properly
-
- 2. Enter dev-1.clicktrans.pl/register-test/courier webside
+1. Load Google Chrome properly
+2. Enter dev-1.clicktrans.pl/register-test/courier webside
 
 Test Steps:
- 1. Check password field with one character repeated eight times (fail).
-
- 2. Check password field with one character (fail).
-
- 3. Check password field with one blank space (fail).
-
- 4. Check password field with eight blank spaces (fail).
-
- 5. Check password field with eight dashes (fail).
+1. Check password field with one character repeated eight times (fail).
+2. Check password field with one character (fail).
+3. Check password field with one blank space (fail).
+4. Check password field with eight blank spaces (fail).
+5. Check password field with eight dashes (fail).
 
 
 Test objective:
@@ -32,13 +26,10 @@ the registration button, the registration sheet rejected registration (negative 
 
 
 Expected result:
-
 The registration sheet rejected registration (negative test).
 
 Implementation: Szymon Kotlowski
-
 Last edited by: Szymon Kotlowski
-
 Last edit date: 16.08.2020
 """
 
