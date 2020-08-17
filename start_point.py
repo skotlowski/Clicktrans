@@ -9,7 +9,7 @@ from TestCases.TC4_Check_Password_Field_With_Company_Name import TC4_Check_Passw
 class StartPoint:
 
         TC1(CHROME_DRIVER_PATH, HTML).testcase()
-        #TC2(CHROME_DRIVER_PATH, HTML).testcase()
-        #TC3(CHROME_DRIVER_PATH, HTML).testcase()
-        #TC4(CHROME_DRIVER_PATH, HTML).testcase()
+        TC2(CHROME_DRIVER_PATH, HTML).testcase()
+        TC3(CHROME_DRIVER_PATH, HTML).testcase()
+        TC4(CHROME_DRIVER_PATH, HTML).testcase()
 
