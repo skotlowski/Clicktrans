@@ -15,7 +15,7 @@ Test Steps:
 1. Test Step 1 - 5 : Check the password field with password same as company name (fail).
 
 Expected result:
-After fill all fields with correct data except the password field and push
+After fill all fields with correct data except the password field (filled with company name) and push
 the registration button, the registration form is refused (negative test).
 
 Implementation: Szymon Kotlowski
