@@ -13,7 +13,8 @@ Automatic tests of the registration form
 
 # Requirements
 
-- The script is compatible with Google Chrome ver. 84.0.4147.125
+- The script (Chrome driver) is compatible with Google Chrome ver. 84.0.4147.125
+- For newer version of Google Chrome is necessary to download the appropriate Chrome driver
 
 # Screenshots
 <img src="jpg/1.png">
