@@ -29,8 +29,8 @@ Last edit date: 16.08.2020
 # import region
 from selenium import webdriver
 from Libraries import selectors
-from Libraries.operations import current_test,\
-    final_result, fill_fields, clean_up,check_step
+from Libraries.operations import current_test, final_result,\
+    fill_fields, clean_up, check_step, test_steps
 from time import sleep
 from Libraries.values import positive_tests
 
@@ -52,10 +52,9 @@ class TC1_Check_All_Fields:
 
     def testcase(self):
         end_result = None
-        steps = len(positive_tests.company_name)
 
         # Test Steps region
-        for index in range(steps):
+        for index in range(test_steps(positive_tests)):
             print("Test Step {} : Check fields with correct data".format(index+1))
             fill_fields(self, selectors, positive_tests, index)
             step_result = self.driver.find_element_by_css_selector(selectors.result).text

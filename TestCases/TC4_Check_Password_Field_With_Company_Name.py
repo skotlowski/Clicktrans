@@ -12,7 +12,7 @@ Preconditions:
 2. Enter dev-1.clicktrans.pl/register-test/courier website
 
 Test Steps:
-1. Test Step 1 : Check the password field with password same as company name (fail).
+1. Test Step 1 - 5 : Check the password field with password same as company name (fail).
 
 Expected result:
 After fill all fields with correct data except the password field and push
@@ -26,7 +26,8 @@ Last edit date: 16.08.2020
 # import region
 from selenium import webdriver
 from Libraries import selectors
-from Libraries.operations import current_test, final_result, fill_fields, clean_up, check_step_fail
+from Libraries.operations import current_test, final_result, fill_fields,\
+    clean_up, check_step_fail, test_steps
 from time import sleep
 from Libraries.values import negative_tests_password_companyname
 
@@ -48,10 +49,9 @@ class TC4_Check_Password_Field_With_Company_Name:
 
     def testcase(self):
         end_result = None
-        times = len(negative_tests_password_companyname.password)
 
         # Test Steps region
-        for index in range(times):
+        for index in range(test_steps(negative_tests_password_companyname)):
             print("Test Step {} : Check the password field with password same as a company name (fail)".format(index+1))
             fill_fields(self, selectors, negative_tests_password_companyname, index)
             step_result = self.driver.find_element_by_css_selector(selectors.result).text

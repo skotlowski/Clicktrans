@@ -91,3 +91,7 @@ def clean_up(test, selectors):
 
 def __reset_colour():
     print(fore.RESET, "")
+
+
+def test_steps(test_type):
+    return len(test_type.company_name)

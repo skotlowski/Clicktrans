@@ -36,8 +36,8 @@ Last edit date: 16.08.2020
 # import region
 from selenium import webdriver
 from Libraries import selectors
-from Libraries.operations import current_test, \
-    final_result, fill_fields, clean_up, check_step_fail
+from Libraries.operations import current_test, final_result,\
+    fill_fields, clean_up, check_step_fail
 from time import sleep
 from Libraries.values import negative_tests_password
 
